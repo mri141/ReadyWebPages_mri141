@@ -1,0 +1,7 @@
+Animated Profile Card Design using HTML & CSS
+
+Simply we can understand profile means the identity of something especially a human head or face described or seen in a side view and a card is means a flat, thick piece of paper, used to prove the identification of a particular person. Generally, a Profile card contains an individual person's name, address, profession, and other casual details.
+
+In this Program [Profile Card Design using HTML & CSS ], as you can see in the given picture there is a profile of an individual person with his name, job and also we can see some social media buttons for this person. At the bottom of that card, we can see a button with text. At first, that profile card name, job and, social media button are disabled, and also a button and card distance little far but when we clicked that share button a profile card move downward close to the button with sliding animation also card's name, job, and social media icons appear with animation and the button text change into cancel.
+
+If you are feeling difficult to understand this program [Profile Card Design] I have to provide a video tutorial below. You can watch the full tutorial, I hope you will get an idea about this profile card

@@ -1,0 +1,5 @@
+Create a Website With Typing Text Animation using HTML & CSS
+
+Website is the combination of various webpages and it contains articles, images hyperlinks, navigation menus, and so many other things. We can find various types of website on the internet, some give us news, text article, some sells us products, and some provide us jokes also. The website could be different in design and contains but they are built to fulfill user's needs.
+
+As you see on the given image of the website on the webpage. Basically website header looks like this, one navigation menu some images, and buttons. Also, you can see some social media buttons on the right bottom side. Those on the image have typing text animation, I'm mean they appear like someone is typing them. When we will hover those media icon brightness increase smoothly and also I have added hover animation one that two buttons.

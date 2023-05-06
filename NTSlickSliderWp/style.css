@@ -1,0 +1,18 @@
+body{
+    background-color: #d2d2d2;
+    padding: 10rem 2rem;
+}
+
+h2{
+    text-align: center;
+    padding: 3rem;
+    font-size: 3.5rem;
+    margin-bottom: 3rem;
+}
+.slick-slide{
+    margin: 0px 10px;
+}
+
+.slick-slide img{
+    width: 100%;
+}

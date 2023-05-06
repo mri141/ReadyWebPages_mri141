@@ -1,0 +1,5 @@
+Custom Radio Buttons using only HTML & CSS
+
+Radio is the type of input tag of the HTML. It is used to click an option for once, for example, the input checkbox can be clicked two times one for check and another for uncheck but radio property can be clicked once time to check. Radio property is used in the various program,s for example, in the option of (male, female, other) there is used input type radio.
+
+As you can see in the given image on the webpage, there are two boxes, one is named by the student and another is named by the teacher. You can see there is a button on the left side of that two boxes which look like a radio button but it is not, actually, it is made by CSS and the original radio button is hidden. Basically, the radio button is used only for check-in this program[Custom Radio Buttons]. When we clicked on these boxes the text color change into white, the background color changed into blue and the circular border comes into the radio button. These two boxes are not checked at the same time when one box checked another is unchecked automatically.

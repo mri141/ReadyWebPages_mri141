@@ -1,0 +1,7 @@
+Animated Alert Box using HTML & CSS only
+
+In Simple form, an alert box is a message box that pops up on your computer screen to take your opinion about the action that you are proceeding. An alert box contains some messages and some buttons while popping up then the user has to as their choice. There are various forms of the popup box in them alert box is one.
+
+As you can see on the given image of the alert box. There is a flat window with some text and a two-button. The text is used as a warning about the action and that two-box uses to ask the user's opinion for the action. Users can cancel the action by clicking on the "cancel" button and do action by clicking on a "yes" button. Actually id first there is a button with the text "Click Me" and the alert box is hidden, when you click on this "Click Me" button alert box appears and the "Click Me" button disappears.
+
+If you are feeling difficulties understanding what I'm saying about this program[Animated Alert Box or Custom Popup Box] don't worry I have made a full video tutorial about this program which is given below. I'm sure that after watching the full video about this program[ Custom Alert box] your all confusion will be clear.
